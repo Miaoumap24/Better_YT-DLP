@@ -61,7 +61,7 @@ If you want to run the script manually:
 
 ##  Author
 
-**Lixiod** - *Engineered for the Common Good*  |  Yt-Dlp : https://github.com/yt-dlp/yt-dlp
+**Lixiod Technologies** - *Engineered for the Common Good*  |  Yt-Dlp : https://github.com/yt-dlp/yt-dlp
 
 ---
 
