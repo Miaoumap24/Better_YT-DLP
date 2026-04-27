@@ -28,7 +28,7 @@ An enhanced, standalone version of `yt-dlp` designed for speed and simplicity. T
 ##  How to Use (Pre-compiled Version)
 
 1.  Go to the [Releases](https://github.com/Miaoumap24/Better_YT-DLP/releases) section.
-2.  Download `Better_YT-DLP_X.X.X.exe`.
+2.  Download `BetterYTDLP_x.x.x.exe`.
 3.  Run the file.
 4.  Paste your URL, choose your format, and you're done!
 
